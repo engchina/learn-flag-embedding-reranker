@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+python-dotenv==1.0.1
+llama-index==0.10.42
+FlagEmbedding==1.2.10
+torch==2.3.0
